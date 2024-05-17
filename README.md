@@ -37,6 +37,7 @@ The script will generate a combined image consisting of the original image, the 
 - MediaPipe may fail to detect poses in certain types of images such as:
   - Chibi characters
   - Images of people sleeping
+  - Images of people sitdown
   - Full body images where the legs are not clearly visible
 
 Further research and adjustments are needed to improve pose detection in these cases.
